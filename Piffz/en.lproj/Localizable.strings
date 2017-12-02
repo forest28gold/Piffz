@@ -1,0 +1,15 @@
+/* 
+  Localizable.strings
+  Piffz
+
+  Created by JinZ Lin on 4/11/15.
+  Copyright (c) 2015 Mike Jones. All rights reserved.
+*/
+
+"key"                                   = "value_en";
+
+"alert_title"                           = "Alert";
+"alert_ok"                              = "OK";
+"alert_message_name"                    = "Please input your name.";
+"alert_message_email"                   = "Please input your email.";
+"alert_message_email_format"            = "Please input your email correctly.";

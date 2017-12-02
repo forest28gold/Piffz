@@ -1,0 +1,140 @@
+
+/* Class = "IBUITextField"; placeholder = "Write your name"; ObjectID = "0LB-r1-klA"; */
+"0LB-r1-klA.placeholder" = "Write your name";
+
+/* Class = "IBUILabel"; text = "More Books"; ObjectID = "0Ow-Et-sgX"; */
+"0Ow-Et-sgX.text" = "More Books";
+
+/* Class = "IBUILabel"; text = "Theodoor og Marius\nISBN: 123-456-789-12\n\nAuthor: Natalina Atlanta Bramsted\nIllustrated by: Phill Jens bramsted\nRecorded by: Phill Jens Bramsted\n\nLayout, setup and app design\nby Yummp Design Studio\n\n© Copyright 2015\nNatalina Atlanta Bramsted and Publisher Piﬀz"; ObjectID = "0pY-JR-ekc"; */
+"0pY-JR-ekc.text" = "Theodoor og Marius\nISBN: 123-456-789-12\n\nAuthor: Natalina Atlanta Bramsted\nIllustrated by: Phill Jens bramsted\nRecorded by: Phill Jens Bramsted\n\nLayout, setup and app design\nby Yummp Design Studio\n\n© Copyright 2015\nNatalina Atlanta Bramsted and Publisher Piﬀz";
+
+/* Class = "IBUIButton"; normalTitle = "No"; ObjectID = "0vC-QR-Aoc"; */
+"0vC-QR-Aoc.normalTitle" = "No";
+
+/* Class = "IBUIButton"; normalTitle = "Swipe to right\nto go to previous page"; ObjectID = "6MQ-2T-2wT"; */
+"6MQ-2T-2wT.normalTitle" = "Swipe to right\nto go to previous page";
+
+/* Class = "IBUIButton"; normalTitle = "Home"; ObjectID = "6v0-Bt-RL0"; */
+"6v0-Bt-RL0.normalTitle" = "Home";
+
+/* Class = "IBUIButton"; normalTitle = "Help"; ObjectID = "8EQ-DU-pxo"; */
+"8EQ-DU-pxo.normalTitle" = "Help";
+
+/* Class = "IBUILabel"; text = "Here you adjust settings for your app and the book.\nYou can always come back and change these settings again."; ObjectID = "8WT-YN-96q"; */
+"8WT-YN-96q.text" = "Here you adjust settings for your app and the book.\nYou can always come back and change these settings again.";
+
+/* Class = "IBUIButton"; normalTitle = "Play"; ObjectID = "DD3-hM-JsP"; */
+"DD3-hM-JsP.normalTitle" = "Play";
+
+/* Class = "IBUILabel"; text = "©  2015 Piffz. All Rights Reserved."; ObjectID = "Gwa-Y4-Peb"; */
+"Gwa-Y4-Peb.text" = "©  2015 Piffz. All Rights Reserved.";
+
+/* Class = "IBUIButton"; normalTitle = "Use my recordings when\nread to me."; ObjectID = "HEO-nV-IzO"; */
+"HEO-nV-IzO.normalTitle" = "Use my recordings when\nread to me.";
+
+/* Class = "IBUILabel"; text = "Here you can ﬁnd other books published by Piﬀz.\nYou can also go to www.piﬀz.com to see more."; ObjectID = "K9K-SC-gjP"; */
+"K9K-SC-gjP.text" = "Here you can ﬁnd other books published by Piﬀz.\nYou can also go to www.piﬀz.com to see more.";
+
+/* Class = "IBUIButton"; normalTitle = "Swipe to left\nto go to next page"; ObjectID = "KEV-a8-xel"; */
+"KEV-a8-xel.normalTitle" = "Swipe to left\nto go to next page";
+
+/* Class = "IBUIButton"; normalTitle = "Delete all my recordings"; ObjectID = "KPb-wc-RXt"; */
+"KPb-wc-RXt.normalTitle" = "Delete all my recordings";
+
+/* Class = "IBUIButton"; normalTitle = "7,99 DKK"; ObjectID = "KsJ-XF-GnM"; */
+"KsJ-XF-GnM.normalTitle" = "7,99 DKK";
+
+/* Class = "IBUILabel"; text = "Book  title"; ObjectID = "Lk5-Xc-6lo"; */
+"Lk5-Xc-6lo.text" = "Book  title";
+
+/* Class = "IBUILabel"; text = "This action cannot be undone"; ObjectID = "P3j-sQ-c0j"; */
+"P3j-sQ-c0j.text" = "This action cannot be undone";
+
+/* Class = "IBUITextView"; text = "Lorem ipsum dolor sit amet,\nconsectetur adipisicing elit,\nsed do eiusmod tempor\nincididunt ut labore."; ObjectID = "P7g-ua-JBf"; */
+"P7g-ua-JBf.text" = "Lorem ipsum dolor sit amet,\nconsectetur adipisicing elit,\nsed do eiusmod tempor\nincididunt ut labore.";
+
+/* Class = "IBUIButton"; normalTitle = "Settings"; ObjectID = "Pg6-OO-eE5"; */
+"Pg6-OO-eE5.normalTitle" = "Settings";
+
+/* Class = "IBUIButton"; normalTitle = "Show page text when read to me."; ObjectID = "PuE-XV-eZM"; */
+"PuE-XV-eZM.normalTitle" = "Show page text when read to me.";
+
+/* Class = "IBUIButton"; normalTitle = "Save my recordings when I close the App"; ObjectID = "UFh-Fw-zKB"; */
+"UFh-Fw-zKB.normalTitle" = "Save my recordings when I close the App";
+
+/* Class = "IBUILabel"; text = "©  2015 Piffz. All Rights Reserved."; ObjectID = "VT4-Oj-93r"; */
+"VT4-Oj-93r.text" = "©  2015 Piffz. All Rights Reserved.";
+
+/* Class = "IBUILabel"; text = "Settings"; ObjectID = "YGI-A2-qML"; */
+"YGI-A2-qML.text" = "Settings";
+
+/* Class = "IBUITextView"; text = "Lorem ipsum dolor sit amet,\nconsectetur adipisicing elit,\nsed do eiusmod tempor."; ObjectID = "aAo-hy-Q0K"; */
+"aAo-hy-Q0K.text" = "Lorem ipsum dolor sit amet,\nconsectetur adipisicing elit,\nsed do eiusmod tempor.";
+
+/* Class = "IBUILabel"; text = "Are you sure?"; ObjectID = "aXW-EM-FwV"; */
+"aXW-EM-FwV.text" = "Are you sure?";
+
+/* Class = "IBUIButton"; normalTitle = "Home"; ObjectID = "acR-xf-Owt"; */
+"acR-xf-Owt.normalTitle" = "Home";
+
+/* Class = "IBUIButton"; normalTitle = "Close"; ObjectID = "aiD-TM-h1u"; */
+"aiD-TM-h1u.normalTitle" = "Close";
+
+/* Class = "IBUILabel"; text = "Recordings"; ObjectID = "bDU-af-fUM"; */
+"bDU-af-fUM.text" = "Recordings";
+
+/* Class = "IBUITextField"; placeholder = "Write your e-mail"; ObjectID = "dZc-Yy-baW"; */
+"dZc-Yy-baW.placeholder" = "Write your e-mail";
+
+/* Class = "IBUILabel"; text = "Are you sure you want to delete all the\nrecordings made for all the pages in this book?"; ObjectID = "eiY-G9-L6w"; */
+"eiY-G9-L6w.text" = "Are you sure you want to delete all the\nrecordings made for all the pages in this book?";
+
+/* Class = "IBUIButton"; normalTitle = "Read myself"; ObjectID = "fFK-Ej-168"; */
+"fFK-Ej-168.normalTitle" = "Read myself";
+
+/* Class = "IBUIButton"; normalTitle = "Read to me"; ObjectID = "fef-hq-g8B"; */
+"fef-hq-g8B.normalTitle" = "Read to me";
+
+/* Class = "IBUIButton"; normalTitle = "Yes"; ObjectID = "krn-CT-Zbz"; */
+"krn-CT-Zbz.normalTitle" = "Yes";
+
+/* Class = "IBUILabel"; text = "30"; ObjectID = "pkc-GT-FFL"; */
+"pkc-GT-FFL.text" = "30";
+
+/* Class = "IBUIButton"; normalTitle = "Record myself reading"; ObjectID = "q2v-dL-lmG"; */
+"q2v-dL-lmG.normalTitle" = "Record myself reading";
+
+/* Class = "IBUILabel"; text = "About the Book"; ObjectID = "t3V-nm-esK"; */
+"t3V-nm-esK.text" = "About the Book";
+
+/* Class = "IBUIButton"; normalTitle = "Record"; ObjectID = "tO8-yB-LVX"; */
+"tO8-yB-LVX.normalTitle" = "Record";
+
+/* Class = "IBUILabel"; text = "Become a member of our club"; ObjectID = "tWs-da-42A"; */
+"tWs-da-42A.text" = "Become a member of our club";
+
+/* Class = "IBUIButton"; normalTitle = "More Books"; ObjectID = "tdh-1h-VSY"; */
+"tdh-1h-VSY.normalTitle" = "More Books";
+
+/* Class = "IBUIButton"; normalTitle = "Press a word to have it read to you"; ObjectID = "ttR-NK-MN9"; */
+"ttR-NK-MN9.normalTitle" = "Press a word to have it read to you";
+
+/* Class = "IBUIButton"; normalTitle = "Home"; ObjectID = "uWf-QO-E3g"; */
+"uWf-QO-E3g.normalTitle" = "Home";
+
+/* Class = "IBUILabel"; text = "©  2015 Piffz. All Rights Reserved."; ObjectID = "x3W-IU-isT"; */
+"x3W-IU-isT.text" = "©  2015 Piffz. All Rights Reserved.";
+
+/* Class = "IBUIButton"; normalTitle = "Delete my recording"; ObjectID = "xjy-Q6-jYD"; */
+"xjy-Q6-jYD.normalTitle" = "Delete my recording";
+
+/* Class = "IBUIButton"; normalTitle = "Subscribe"; ObjectID = "yTK-zF-GOv"; */
+"yTK-zF-GOv.normalTitle" = "Subscribe";
+
+/* Class = "IBUIButton"; normalTitle = "About"; ObjectID = "zg9-ic-OEw"; */
+"zg9-ic-OEw.normalTitle" = "About";
+
+/* Class = "IBUILabel"; text = "By subscribing for a membership af KFM (Klub Fridus Mus) you\nautomatically accept our terms and conditions and privacy policy.\nRemember to ask an adult for permission if you a under the age of 13."; ObjectID = "zgk-dr-itr"; */
+"zgk-dr-itr.text" = "By subscribing for a membership af KFM (Klub Fridus Mus) you\nautomatically accept our terms and conditions and privacy policy.\nRemember to ask an adult for permission if you a under the age of 13.";
+
+

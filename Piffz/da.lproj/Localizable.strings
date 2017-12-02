@@ -1,0 +1,27 @@
+/* 
+  Localizable.strings
+  Piffz
+
+  Created by AppsCreationTech on 4/11/15.
+  Copyright (c) 2015 AppsCreationTech. All rights reserved.
+*/
+
+"key"                                   = "value_da";
+
+"alert_title"                           = "Alert";
+"alert_ok"                              = "OK";
+
+
+"alert_message_name"                    = "Please input your name.";
+"alert_message_email"                   = "Please input your email.";
+"alert_message_email_format"            = "Please input your email correctly.";
+
+
+"alert_network_error"                   = "Network unavailable. Please check your network settings and retry.";
+
+"error_name"                            = "Write your name";
+"error_email"                           = "Write your e-mail";
+"error_correct_email"                   = "Write e-mail correctly";
+
+"confirm_title"                         = "Are you sure?";
+"confirm_content"                       = "Are you sure you want to delete all the\nrecordings made for all the pages in this book?";
